@@ -27,6 +27,8 @@ Edu-Digital was created by Joana Contente, working at the intersection of techno
 
 ## Website
 
-https://edu-digital.pt
+Website: https://edu-digital.pt  
 
-https://instagram.com/ia_joanaa/
+About: https://edu-digital.pt/about
+
+Instagram: https://instagram.com/ia_joanaa/
